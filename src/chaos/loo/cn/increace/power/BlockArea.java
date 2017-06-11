@@ -74,7 +74,7 @@ public class BlockArea extends JPanel {
 	}
 
 	public void setNewBlock(int newone) {
-		blocks[newone].setIcon(imgN[0]);
+		blocks[newone].setIcon(imgN[0]); 
 
 	}
 
